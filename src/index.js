@@ -16,7 +16,7 @@ root.render(
   <React.StrictMode>
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
-        <BrowserRouter basename="/code-jedi-project-03-frontend">
+        <BrowserRouter basename="/node_front_fs_85_OleksiiHvozdukhin">
           <ThemeProvider theme={theme}>
             <App />
             <Toaster />
