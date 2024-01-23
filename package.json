@@ -2,7 +2,7 @@
   "name": "code-jedi-project-03-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://oleksiihvozdukhin.github.io/code-jedi-project-03-frontend/",
+  "homepage": "https://GoitStudentsWorks.github.io/node_front_fs_85_OleksiiHvozdukhin/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.6",
     "@testing-library/jest-dom": "^5.16.3",
